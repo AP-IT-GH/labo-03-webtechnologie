@@ -15,4 +15,5 @@
 5. [universal](universal/)
 6. [recipe-color](recipe-color/)
 7. [ph-scale](ph-scale/)
-7. [typo](typo/)
+8. [typo](typo/)
+9. [inheritance](inheritance/)
